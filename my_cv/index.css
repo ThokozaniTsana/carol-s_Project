@@ -1,0 +1,48 @@
+#personal_details {
+    color: white;
+}
+#Education {
+    color: white;
+}
+#Work_experience {
+    color: white;
+}
+#My_skills {
+    color: white;
+}
+#References {
+    color: white;
+}
+img {
+    border-radius: 50%;
+  }
+  body {
+    background-color: grey;
+  }
+  
+p{
+    color: black;
+    text-align: left;
+}
+li{
+    color: black;
+    text-align: left;
+}
+label{
+    color: black;
+}
+h1 {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  h4 {
+    font-size: 20px;
+  }
+  h5 {
+    font-size: 20px;
+  }
