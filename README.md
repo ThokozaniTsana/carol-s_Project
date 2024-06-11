@@ -1,5 +1,4 @@
 # carol-s_Project
-
 carol's project is a project that consist of html file, css file and a jpg file, in the html file we have a cv, css is the style that we want the layout of the cv to be in. the jpg file is the profile picture of the user. 
 
 # installation
